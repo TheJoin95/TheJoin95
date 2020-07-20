@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Miki 👋👨‍💻
 
-<!--
-**TheJoin95/TheJoin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer, an endless curious and an endless student.
+<br/>I love the opensource world, building community, share my knowledge, speaking at conferences and learn every day.
 
-Here are some ideas to get you started:
+Actually I'm based in Florence, Italy. I'm working as a Fullstack engineer and researcher [@ plansoft-it](https://github.com/plansoft-it)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗣 Usually I make some talks about technology, design patterns, DDD and architecture... serious stuff, bruh. You can find the slides on [Slideshare](https://www.slideshare.net/MikiLombardi)
+
+📋 I'm also writing some articles on [Medium](https://medium.com/@miki.lombi). They are about my experience, experiments and other tech stuff
+
+⚡ I'm currently a founder and a speaker at [Schrödinger Hat](https://github.com/Schrodinger-Hat), an italian live stream / podcast, talking about software development, sharing knowledges
+
+
+You can find me anywhere, just talk about me... I will appear at you ❤️
