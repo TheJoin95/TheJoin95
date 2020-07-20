@@ -12,4 +12,4 @@ Actually I'm based in Florence, Italy. I'm working as a Fullstack engineer and r
 ⚡ I'm currently a founder and a speaker at [Schrödinger Hat](https://github.com/Schrodinger-Hat), an italian live stream / podcast, talking about software development, sharing knowledges
 
 
-You can find me anywhere, just talk about me... I will appear at you ❤️
+You can find me anywhere, you have to just talk about me... I will appear in front of you ❤️
