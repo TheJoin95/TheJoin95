@@ -5,7 +5,7 @@ I'm a passionate software engineer, an endless curious and an endless student.
 
 Actually I'm based in Florence, Italy. I'm working as a Fullstack engineer and researcher [@ plansoft-it](https://github.com/plansoft-it)
 
-🗣 Usually I make some talks about technology, design patterns, DDD and architecture... serious stuff, bruh. You can find the slides on [Slideshare](https://www.slideshare.net/MikiLombardi)
+🗣 Usually I make some talks about technology, software development, architecture... serious stuff, bruh. You can find the slides on [Slideshare](https://www.slideshare.net/MikiLombardi)
 
 📋 I'm also writing some articles on [Medium](https://medium.com/@miki.lombi). They are about my experience, experiments and other tech stuff
 
