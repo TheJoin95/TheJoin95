@@ -3,7 +3,7 @@
 I'm a passionate software engineer, an endless curious and an endless student.
 <br/>I love the opensource world, building community, share my knowledge, speaking at conferences and learn every day.
 
-Actually I'm based in Florence, Italy. I'm working in full remote (but sometimes I enjoy to go in the office) as a Full stack Engineer [@ Growens s.p.a](https://www.growens.io/it/)
+Actually I'm based in Paris, France. I'm working as a Software Development Engineer [@ Adobe](https://www.adobe.com/)
 
 🗣 Usually I make some talks about technology, software development, architecture... serious stuff, bruh. You can find the slides [Slideshare](https://www.slideshare.net/MikiLombardi)
 
